@@ -1,5 +1,5 @@
 class Author
-  attr_accessor :name,
+  attr_accessor :name
 
 
 
@@ -7,4 +7,4 @@ class Author
     @name = name
   end
 
-end  
+end
